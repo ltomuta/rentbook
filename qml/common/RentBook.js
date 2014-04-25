@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2011 Nokia Corporation.
+ * Copyright (c) 2011-2014 Microsoft Mobile.
  */
 
 var date = new Date() // http://www.w3schools.com/js/js_obj_date.asp
